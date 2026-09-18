@@ -330,15 +330,19 @@ It demonstrates the foundation from which my web-development journey started.
 └────────────┬────────────┘
              ↓
 ┌─────────────────────────┐
-│          React          │
+│       TypeScript       │
 └────────────┬────────────┘
              ↓
 ┌─────────────────────────┐
-│       TypeScript        │
+│          Tailwindcss        │
 └────────────┬────────────┘
              ↓
 ┌─────────────────────────┐
-│    Full-Stack Dev       │
+│       React      │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│    Full -stock Dev   │
 └─────────────────────────┘
 ```
 
