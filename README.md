@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Aspiring+Web+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Aspiring+Web+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -56,60 +56,189 @@ const jubaer = {
 ## 🌐 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 ## ⚛️ Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ## 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/JubaerDV/A05-DevStack">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JubaerDV&repo=A05-DevStack&theme=tokyonight&hide_border=true" />
-
-</a>
+### ⚡ My Selected Projects
 
 </div>
 
-## 🌐 Dev Stack
+I selected these projects from my repositories to represent different stages of my web-development journey — from HTML fundamentals and JavaScript practice to modern TypeScript-based frontend development.
 
-A modern web application for exploring technologies and creating a personalized development stack.
+---
+
+## 🚀 01. Dev Stack
+
+<a href="https://github.com/JubaerDV/Batch14-A05-Devstack">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JubaerDV&repo=Batch14-A05-Devstack&theme=tokyonight&hide_border=true" />
+
+</a>
+
+### 📝 About
+
+**Dev Stack** is a modern web project focused on exploring technologies and creating a personalized development stack.
 
 ### ✨ Highlights
 
 * 🔎 Explore different technologies
-* 🧩 Build your own development stack
+* 🧩 Build a personalized technology stack
 * 📱 Responsive user interface
-* ⚡ Modern React-based architecture
-* 🎨 Clean and user-friendly design
+* ⚡ React-based frontend architecture
+* 📘 TypeScript development
+* 🎨 Clean and modern UI
 
 ### 🛠️ Built With
 
-```text
-React
-TypeScript
-Tailwind CSS
-JavaScript
-```
+`React` `TypeScript` `Tailwind CSS` `JavaScript`
 
-### 🔗 Project
+### 🔗 Repository
 
-**Repository:**
-https://github.com/JubaerDV/A05-DevStack
+[View Repository →](https://github.com/JubaerDV/Batch14-A05-Devstack)
+
+---
+
+## 🌿 02. Smart Tea Estate Workforce Portal
+
+<a href="https://github.com/JubaerDV/Smart-Tea-Estate-Workforce-Portal">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JubaerDV&repo=Smart-Tea-Estate-Workforce-Portal&theme=tokyonight&hide_border=true" />
+
+</a>
+
+### 📝 About
+
+**Smart Tea Estate Workforce Portal** is a web project based around a digital workforce portal concept for a tea estate environment.
+
+### ✨ Highlights
+
+* 🌿 Tea-estate focused concept
+* 👥 Workforce-oriented interface
+* 🖥️ Structured web layout
+* 📱 User-focused design
+* 🧩 Foundation for future expansion
+
+### 🛠️ Built With
+
+`HTML`
+
+### 🔗 Repository
+
+[View Repository →](https://github.com/JubaerDV/Smart-Tea-Estate-Workforce-Portal)
+
+---
+
+## 💻 03. DEVCONF 2026
+
+<a href="https://github.com/JubaerDV/DEVCONF_2026..">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JubaerDV&repo=DEVCONF_2026..&theme=tokyonight&hide_border=true" />
+
+</a>
+
+### 📝 About
+
+**DEVCONF 2026** is a developer-focused conference website/template project.
+
+The project demonstrates frontend website structure and provides a foundation for a developer-event website.
+
+### ✨ Highlights
+
+* 💻 Developer conference concept
+* 🎤 Event-focused interface
+* 🧭 Structured website layout
+* 🎨 Frontend design practice
+* 🧩 Template-based project
+
+### 🛠️ Built With
+
+`HTML`
+
+### 🔗 Repository
+
+[View Repository →](https://github.com/JubaerDV/DEVCONF_2026..)
+
+---
+
+## 🟨 04. JavaScript ALL
+
+<a href="https://github.com/JubaerDV/JavaScript_ALL">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JubaerDV&repo=JavaScript_ALL&theme=tokyonight&hide_border=true" />
+
+</a>
+
+### 📝 About
+
+**JavaScript ALL** is a learning-focused repository containing JavaScript documentation, concepts and practice materials.
+
+It represents my continuous learning and practice with JavaScript fundamentals.
+
+### 📚 Focus Areas
+
+* 🟨 JavaScript fundamentals
+* 📖 Learning documentation
+* 🧠 Programming concepts
+* 💡 Practice materials
+* 🧩 Problem-solving practice
+
+### 🛠️ Built With
+
+`JavaScript`
+
+### 🔗 Repository
+
+[View Repository →](https://github.com/JubaerDV/JavaScript_ALL)
+
+---
+
+## 🌐 05. First Website
+
+<a href="https://github.com/JubaerDV/first-website-m-1">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JubaerDV&repo=first-website-m-1&theme=tokyonight&hide_border=true" />
+
+</a>
+
+### 📝 About
+
+**First Website** represents one of my early steps into web development and practical HTML-based website building.
+
+It demonstrates the foundation from which my web-development journey started.
+
+### ✨ Highlights
+
+* 🧱 HTML fundamentals
+* 🌐 Basic website structure
+* 📝 Content organization
+* 🎨 Introduction to webpage design
+* 🚀 Early web-development practice
+
+### 🛠️ Built With
+
+`HTML`
+
+### 🔗 Repository
+
+[View Repository →](https://github.com/JubaerDV/first-website-m-1)
 
 ---
 
@@ -160,14 +289,20 @@ https://github.com/JubaerDV/A05-DevStack
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/JubaerDV/JubaerDV/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
-       srcset="https://raw.githubusercontent.com/JubaerDV/JubaerDV/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/JubaerDV/JubaerDV/output/github-contribution-grid-snake-dark.svg">
 
-<img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/JubaerDV/JubaerDV/output/github-contribution-grid-snake.svg"> </picture>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/JubaerDV/JubaerDV/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/JubaerDV/JubaerDV/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 </div>
 
