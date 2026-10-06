@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/md-jubaer-hossen-7b8704428/">LinkedIn</a>
   •
   <a href="YOUR_FACEBOOK_URL">Facebook</a>
   •
