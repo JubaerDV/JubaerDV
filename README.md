@@ -3,30 +3,35 @@
 <h3 align="center">Frontend Developer | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Jubaer Hossain Banner" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Jubaer Hossain Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_FACEBOOK_URL">Facebook</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •
+  <a href="YOUR_FACEBOOK_URL">Facebook</a>
+  •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  •
+  <a href="https://github.com/JubaerDV">GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate developer from Bangladesh who enjoys building modern and user-friendly web applications. I am currently focused on strengthening my frontend development skills and gradually moving toward full-stack development.
+I am a passionate developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
 
-I enjoy learning new technologies, solving programming problems, and turning ideas into functional web projects.
+I am currently focused on strengthening my frontend development skills and gradually moving toward full-stack development. I enjoy learning new technologies, solving programming problems, and turning ideas into real-world projects.
 
 ### 🚀 Current Activities
 
-* 🌱 Learning and improving my React skills
+* 🌱 Improving my React skills
 * ⚡ Exploring Next.js
 * 🎨 Practicing modern HTML and CSS
 * 💻 Building frontend projects
 * 🔧 Improving my JavaScript skills
+* 📚 Learning modern web development
 * 🎯 Working toward becoming a Full Stack Developer
 
 ---
@@ -58,19 +63,24 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 A modern workout management web application where users can explore workouts, view workout details, and create their personal workout plan.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
 
-**Features:**
+**Key Features**
 
 * Workout listing
 * Workout details
-* Add workouts to today's plan
+* API integration
+* Add workouts to Today's Plan
+* Remove workouts from the plan
 * Personal workout plan
 * Responsive design
-* API integration
+* Loading and error handling
 
-🔗 **Live Demo:** YOUR_LIVE_LINK
-🔗 **Repository:** YOUR_REPOSITORY_LINK
+🔗 **Live Demo:** YOUR_FITLOG_LIVE_LINK
+
+🔗 **Repository:** YOUR_FITLOG_REPOSITORY_LINK
 
 ---
 
@@ -78,17 +88,21 @@ A modern workout management web application where users can explore workouts, vi
 
 A responsive tourism website designed to showcase destinations and provide an engaging user experience.
 
-**Tech Stack:** HTML, CSS, JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Features:**
+**Key Features**
 
 * Responsive design
 * Destination sections
-* Interactive UI
+* Interactive user interface
 * Clean and modern layout
+* User-friendly navigation
 
-🔗 **Live Demo:** YOUR_LIVE_LINK
-🔗 **Repository:** YOUR_REPOSITORY_LINK
+🔗 **Live Demo:** YOUR_TOURISM_LIVE_LINK
+
+🔗 **Repository:** YOUR_TOURISM_REPOSITORY_LINK
 
 ---
 
@@ -98,16 +112,329 @@ A responsive tourism website designed to showcase destinations and provide an en
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" />
+  </a>
+  <a href="https://github.com/JubaerDV">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
 
 📍 **Location:** Bangladesh
+
 📧 **Email:** YOUR_EMAIL_ADDRESS
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a skilled **Full Stack Developer** by continuously improving my programming knowledge, building real-world projects, and learning modern web technologies.
 
 ---
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
 </p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing.</i>
+</p>
+# 🏋️ Fit-Log
+
+Fit-Log is a responsive workout management web application built to help users explore workouts, view detailed workout information, and create a personal workout plan.
+
+The application provides a clean and user-friendly interface with API integration and responsive design for different screen sizes.
+
+---
+
+## 🌐 Live Demo
+
+**Live Website:** YOUR_FITLOG_LIVE_LINK
+
+**GitHub Repository:** YOUR_FITLOG_REPOSITORY_LINK
+
+---
+
+## 📸 Screenshot
+
+![Fit-Log Screenshot](YOUR_FITLOG_SCREENSHOT_URL)
+
+---
+
+## 🛠️ Technologies Used
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* REST API
+* Local Storage
+
+---
+
+## ✨ Features
+
+* Browse available workouts
+* View detailed workout information
+* Workout category information
+* Workout duration and calorie information
+* Add workouts to Today's Plan
+* Remove workouts from Today's Plan
+* Personal workout plan
+* API integration
+* Responsive design
+* Loading state
+* Error handling
+* Modern user interface
+
+---
+
+## 📦 Dependencies
+
+* Next.js
+* React
+* React DOM
+* TypeScript
+* Tailwind CSS
+* Lucide React
+* ESLint
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone YOUR_FITLOG_REPOSITORY_URL
+```
+
+### 2. Open the Project Directory
+
+```bash
+cd fit-log
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+### 5. Open the Website
+
+Open the following address in your browser:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📁 Project Structure
+
+```text
+fit-log/
+├── public/
+├── src/
+│   ├── app/
+│   ├── assets/
+│   ├── components/
+│   ├── lib/
+│   └── types/
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+## 🔌 API
+
+The application uses a REST API to retrieve workout information.
+
+The API provides workout data such as:
+
+* Workout name
+* Category
+* Equipment
+* Difficulty
+* Duration
+* Calories
+* Sets
+* Repetitions
+* Rating
+* Instructions
+
+---
+
+## 💾 Local Storage
+
+The application uses browser Local Storage to maintain the user's workout plan.
+
+Users can:
+
+* Add workouts to their plan
+* View saved workouts
+* Remove workouts
+* Clear their workout plan
+
+---
+
+## 📱 Responsive Design
+
+Fit-Log is designed to work across:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile devices
+
+---
+
+## 👨‍💻 Author
+
+**Jubaer Hossain**
+
+📍 Bangladesh
+
+📧 YOUR_EMAIL_ADDRESS
+
+🔗 GitHub: YOUR_GITHUB_URL
+
+🔗 LinkedIn: YOUR_LINKEDIN_URL
+# 🌐 Tourism Website
+
+This is a responsive tourism website designed to showcase beautiful travel destinations and provide visitors with a clean, engaging, and user-friendly browsing experience.
+
+The project focuses on practicing fundamental frontend development concepts using HTML, CSS, and JavaScript.
+
+---
+
+## 🌐 Live Demo
+
+**Live Website:** YOUR_TOURISM_LIVE_LINK
+
+**GitHub Repository:** YOUR_TOURISM_REPOSITORY_LINK
+
+---
+
+## 📸 Screenshot
+
+![Tourism Website Screenshot](YOUR_TOURISM_SCREENSHOT_URL)
+
+---
+
+## 🛠️ Technologies Used
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+
+---
+
+## ✨ Features
+
+* Responsive design
+* Destination showcase
+* Modern navigation
+* Interactive user interface
+* Travel destination sections
+* Clean layout
+* Mobile-friendly design
+* User-friendly experience
+
+---
+
+## 📦 Dependencies
+
+This project does not require any external package installation.
+
+The project mainly uses:
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone YOUR_TOURISM_REPOSITORY_URL
+```
+
+### 2. Open the Project Directory
+
+```bash
+cd tourism-website
+```
+
+### 3. Run the Project
+
+Open the `index.html` file in your browser.
+
+You can also use the **Live Server** extension in VS Code.
+
+---
+
+## 📁 Project Structure
+
+```text
+tourism-website/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+└── README.md
+```
+
+---
+
+## 📱 Responsive Design
+
+The website is designed to provide a good experience on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile devices
+
+---
+
+## 🎯 Project Purpose
+
+This project was created to improve my practical frontend development skills and to gain experience in building responsive websites using HTML, CSS, and JavaScript.
+
+---
+
+## 👨‍💻 Author
+
+**Jubaer Hossain**
+
+📍 Bangladesh
+
+📧 YOUR_EMAIL_ADDRESS
+
+🔗 GitHub: YOUR_GITHUB_URL
+
+🔗 LinkedIn: YOUR_LINKEDIN_URL
