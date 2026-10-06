@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img width="2056" height="765" alt="0f617405-a18f-4600-ae1a-621432e62aea" src="https://github.com/user-attachments/assets/0617f8c7-befc-4c17-81b3-407ddc8cf659" />
+  <img width="2500" height="765" alt="0f617405-a18f-4600-ae1a-621432e62aea" src="https://github.com/user-attachments/assets/0617f8c7-befc-4c17-81b3-407ddc8cf659" />
 </p>
 
 <p align="center">
