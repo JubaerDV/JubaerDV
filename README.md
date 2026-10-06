@@ -4,8 +4,6 @@
 
 <p align="center">
   <img width="2056" height="765" alt="0f617405-a18f-4600-ae1a-621432e62aea" src="https://github.com/user-attachments/assets/0617f8c7-befc-4c17-81b3-407ddc8cf659" />
-
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Jubaer Hossain Banner" width="100%" />
 </p>
 
 <p align="center">
