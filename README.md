@@ -11,7 +11,7 @@
   •
   <a href="https://www.facebook.com/mohammadjubayer.hossain.315/">Facebook</a>
   •
-  <a href="https://www.jubaer-portfolio-red.vercel.app">Portfolio</a>
+  <a href="http://www.jubaer-portfolio-red.vercel.app">Portfolio</a>
   •
   <a href="https://github.com/JubaerDV">GitHub</a>
 </p>
