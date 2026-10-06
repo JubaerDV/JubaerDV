@@ -78,13 +78,13 @@ A modern workout management web application where users can explore workouts, vi
 * Responsive design
 * Loading and error handling
 
-🔗 **Live Demo:** YOUR_FITLOG_LIVE_LINK
+🔗 **Live Demo: https://fit-log-1ma6.vercel.app
 
-🔗 **Repository:** YOUR_FITLOG_REPOSITORY_LINK
+🔗 **Repository: https://github.com/JubaerDV/fit-log.git
 
 ---
 
-### 🌐 Tourism Website
+### 🌐 Dev stack
 
 A responsive tourism website designed to showcase destinations and provide an engaging user experience.
 
@@ -100,9 +100,9 @@ A responsive tourism website designed to showcase destinations and provide an en
 * Clean and modern layout
 * User-friendly navigation
 
-🔗 **Live Demo:** YOUR_TOURISM_LIVE_LINK
+🔗 **Live Demo:https://batch14-a05-devstack.vercel.app/
 
-🔗 **Repository:** YOUR_TOURISM_REPOSITORY_LINK
+🔗 **Repository: https://github.com/JubaerDV/Batch14-A05-Devstack?utm_source=chatgpt.com
 
 ---
 
@@ -120,9 +120,9 @@ A responsive tourism website designed to showcase destinations and provide an en
   </a>
 </p>
 
-📍 **Location:** Bangladesh
+📍 **Location:Dhaka, Bangladesh
 
-📧 **Email:** YOUR_EMAIL_ADDRESS
+📧 **Email:jubayer24626@gmail.com
 
 ---
 
@@ -149,9 +149,9 @@ The application provides a clean and user-friendly interface with API integratio
 
 ## 🌐 Live Demo
 
-**Live Website:** YOUR_FITLOG_LIVE_LINK
+**Live Website:https://fit-log-1ma6.vercel.app
 
-**GitHub Repository:** YOUR_FITLOG_REPOSITORY_LINK
+**GitHub Repository: https://github.com/JubaerDV/fit-log.git
 
 ---
 
@@ -310,9 +310,9 @@ Fit-Log is designed to work across:
 
 📍 Bangladesh
 
-📧 YOUR_EMAIL_ADDRESS
+📧 jubayer246216@gmail.com
 
-🔗 GitHub: YOUR_GITHUB_URL
+🔗 GitHub:https://github.com/JubaerDV/JubaerDV/edit/main/README.md
 
 🔗 LinkedIn: YOUR_LINKEDIN_URL
 # 🌐 Tourism Website
@@ -433,8 +433,8 @@ This project was created to improve my practical frontend development skills and
 
 📍 Bangladesh
 
-📧 YOUR_EMAIL_ADDRESS
+📧 jubayer24626@gmail.com
 
-🔗 GitHub: YOUR_GITHUB_URL
+🔗 GitHub: https://github.com/JubaerDV/JubaerDV/edit/main/README.md
 
-🔗 LinkedIn: YOUR_LINKEDIN_URL
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/md-jubaer-hossen-7b8704428/">LinkedIn</a>
